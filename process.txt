@@ -1,1 +1,1 @@
-"anydesk","pad","*League of Legends","Rocket League","Steam","vpn","csgo"
+"anydesk","pad","League of Legends","Rocket League","Steam","vpn","csgo"
