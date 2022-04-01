@@ -1,1 +1,1 @@
-"anydesk","pad","League of Legends","Rocket League","Steam","vpn","csgo","lalala","half-life","hl","counter-strike"
+"anydesk","pad","League of Legends","Rocket League","Steam","vpn","csgo","lalala","half-life","hl","counter-strike","windscribe"
